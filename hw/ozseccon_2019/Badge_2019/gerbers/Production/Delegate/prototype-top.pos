@@ -1,0 +1,23 @@
+### Module positions - created on Thu May  2 13:29:52 2019 ###
+### Printed by Pcbnew version kicad 4.0.7-e2-6376~58~ubuntu16.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                 PosX       PosY       Rot  Side
+BT1       Battery_Cell   Keystone_3034_1x20mm-CoinCell        -7.4930   -22.0350   90.0000  top
+C1        100uF          CP_Elec_6.3x5.7                     -41.2750     1.9050   90.0000  top
+C2        100nF          C_0805                              -24.2570   -10.2870  270.0000  top
+C3        10nF           C_0805                              -34.9250    -3.6830  180.0000  top
+C4        100nF          C_0805                              -22.2250   -10.2870  270.0000  top
+C5        100nF          C_0805                              -30.8610   -22.3520  180.0000  top
+C6        1uF            C_0805                              -34.9250    -5.5880  180.0000  top
+C7        4.7uF          C_0805                              -39.2430   -15.6210   90.0000  top
+C8        4.7uF          C_0805                              -30.8610   -24.2570  180.0000  top
+D1        LED1           LED_RGB_5050-6                       -2.2860    -3.6830    0.0000  top
+D2        LED2           LED_RGB_5050-6                       -2.2860     3.8100    0.0000  top
+J6        USB_MICRO      USB_Micro-B_Molex-105017-0001       -50.4190   -29.7180  270.0000  top
+R1        10k            R_0805                              -15.3670    -1.3970  270.0000  top
+R2        22             R_0805                              -43.8150   -26.4160  180.0000  top
+R3        22             R_0805                              -43.8150   -24.5110  180.0000  top
+U2        TC4424A        SOIC-8_3.9x4.9mm_Pitch1.27mm        -48.5140     3.8100    0.0000  top
+U3        STM32F042C6T6  OzSecCon_LQFP-48_7x7mm_Pitch0.5mm   -32.2580   -11.9380    0.0000  top
+## End

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SAML21G16B-M
+D QFN48, 64K Flash, 8K RAM, 48MHz, CortexM0+
+K ARM 32bit Microcontroller 48MHz CortexM0+
+F http://www.atmel.com/Images/Atmel-42385-SAM-L21-Datasheet.pdf
+$ENDCMP
+#
+$CMP SAML21G17B-M
+D QFN48, 128K Flash, 16K RAM, 48MHz, CortexM0+
+K ARM 32bit Microcontroller 48MHz CortexM0+
+F http://www.atmel.com/Images/Atmel-42385-SAM-L21-Datasheet.pdf
+$ENDCMP
+#
+$CMP SAML21G18B-M
+D QFN48, 256K Flash, 32K RAM, 48MHz, CortexM0+
+K ARM 32bit Microcontroller 48MHz CortexM0+
+F http://www.atmel.com/Images/Atmel-42385-SAM-L21-Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

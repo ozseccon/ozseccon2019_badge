@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5050_LED_RGB
+D 5050 RGB LED
+K led diode
+$ENDCMP
+#
+$CMP 5050_RGB_LED
+D 5050 LED RGB
+$ENDCMP
+#
+$CMP Fiducial
+D Fiducial Mark
+$ENDCMP
+#
+$CMP ICC_Pads
+D ICC Pads
+$ENDCMP
+#
+$CMP TC4424A
+D TC4424A
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21998b.pdf
+$ENDCMP
+#
+$CMP TPS61222DCKR
+D TPS6122x Low Input Voltage, 0.7V Boost Converter With 5.5μA Quiescent Current
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,14 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref,Datasheet,Substitute with lower cost,Extra Components
+1,C1,CP_Elec_6.3x5.7,1,100uF,MCVVT016M101EA1L,http://www.farnell.com/datasheets/2151198.pdf,Y,30
+2,"C2,C4,C5",C_0805,3,100nF,,,Y,30
+3,C3,C_0805,1,10nF,,,Y,30
+4,C6,C_0805,1,1uF,,,Y,30
+5,"C7,C8",C_0805,2,4.7uF,,,Y,30
+6,"D1, D2",LED_RGB_5050-6,2,Yuan Lei LED SMD 5050 RGB,Yuan Lei LED SMD 5050 RGB,,Y,30
+7,J6,USB_Micro-B_Molex-105017-0001,1,USB_MICRO,Multicomp MC001009/ USB Micro B,,Y,30
+8,R1,R_0805,1,10k,,,Y,30
+9,"R2,R3",R_0805,2,22,,,Y,30
+10,"SW1,SW2",TactSwitch,2,SW_DPST_OZSECCON,https://www.altronics.com.au/p/s1112a-spst-momentary-smd-4.3mm-tactile-switch/,,Y,30
+11,U2,SOIC-8_3.9x4.9mm_Pitch1.27mm,1,TC4424A,TC4424AVOA713,http://www.farnell.com/datasheets/512945.pdf,N,30
+12,U3,OzSecCon_LQFP-48_7x7mm_Pitch0.5mm,1,"STM32F042C6T6/STM32 48 pin LQFP, 32kb Flash, 6kb RAM",https://au.element14.com/stmicroelectronics/stm32f042c6t6/mcu-arm-cortex-m0-48mhz-lqfp-48/dp/2750630?scope=partnumberlookahead&ost=STM32F042C6T6&searchref=searchlookahead&exaMfpn=true&ddkey=https%3Aen-AU%2FElement14_Australia%2Fw%2Fsearch,http://www.farnell.com/datasheets/2281753.pdf,N,30
+13,BT1,Keystone_3034_1x20mm-CoinCell,1,Battery_Cell,"3034 -  BATTERY CONTACT, COIN CELL, 20MM",https://au.element14.com/keystone/3034/battery-contact-coin-cell-20mm/dp/2959377?st=keystone%203034,Y,30
