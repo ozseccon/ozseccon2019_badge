@@ -142,6 +142,8 @@ Convert file using the (elf2dfuse utility)[https://github.com/majbthrd/elf2dfuse
  
 # Stuff i stole/copied from to make this badge
 [Samy Kamkar's Magspoof](http://samy.pl/magspoof/)
+
 [RyscCorp's version](https://github.com/RyscCorp/magspoof_r3)
+
 [Aleh Zasypkin Awesome Kroneum project](https://github.com/azasypkin/kroneum)
 
