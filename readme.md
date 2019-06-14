@@ -34,7 +34,7 @@ json
     Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 you should see ID ffff:ffff show up.
 1. run cardutil as root - this is due to using USB YMMV
-
+```
     ozseccon2019_utility$ sudo python ./cardutil.py --cardfile ./carddata.json 
     ________             _________              _________                   
     \_____  \  ________ /   _____/  ____   ____ \_   ___ \   ____    ____   
@@ -80,7 +80,7 @@ you should see ID ffff:ffff show up.
     
     
     ./ozseccon2019_utility/cardutil.py
-
+```
 1. You should now be able to use it.
 
 ##reprogramming.
@@ -92,6 +92,7 @@ Convert file using the (elf2dfuse utility)[https://github.com/majbthrd/elf2dfuse
     peter@peter-ThinkPad-X230:/media/peter/VM Images/ozseccon2019/ozseccon2019_badge$ lsusb
     Bus 003 Device 119: ID 0483:df11 STMicroelectronics STM Device in DFU Mode
 1. check that dfu-util detects board
+```
     ~/src/elf2dfuse$ sudo dfu-util -l
     enter sudo password 
     dfu-util 0.8
@@ -135,7 +136,7 @@ Convert file using the (elf2dfuse utility)[https://github.com/majbthrd/elf2dfuse
     Download    [=========================] 100%          712 bytes
     Download done.
     done parsing DfuSe file
- 
+ ```
 #Stuff i stole/copied from to make this badge
 [Samy Kamkar's Magspoof](http://samy.pl/magspoof/)
 [RyscCorp's version](https://github.com/RyscCorp/magspoof_r3)
