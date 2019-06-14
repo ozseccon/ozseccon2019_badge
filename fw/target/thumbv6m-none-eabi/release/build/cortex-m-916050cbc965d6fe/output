@@ -1,0 +1,4 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/home/peter/src/rustembedded/ozlockcon2019/target/thumbv6m-none-eabi/release/build/cortex-m-916050cbc965d6fe/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv6m

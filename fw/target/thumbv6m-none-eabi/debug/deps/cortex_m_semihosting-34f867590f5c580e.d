@@ -1,0 +1,10 @@
+/home/peter/src/rustembedded/ozlockcon2019/target/thumbv6m-none-eabi/debug/deps/libcortex_m_semihosting-34f867590f5c580e.rlib: /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/lib.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/macros.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/debug.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/export.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/hio.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/nr.rs
+
+/home/peter/src/rustembedded/ozlockcon2019/target/thumbv6m-none-eabi/debug/deps/cortex_m_semihosting-34f867590f5c580e.d: /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/lib.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/macros.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/debug.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/export.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/hio.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/nr.rs
+
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/lib.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/macros.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/debug.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/export.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/hio.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/nr.rs:

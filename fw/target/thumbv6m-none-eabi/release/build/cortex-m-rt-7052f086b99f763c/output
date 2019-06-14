@@ -1,0 +1,5 @@
+cargo:rustc-cfg=armv6m
+cargo:rustc-link-lib=static=cortex-m-rt
+cargo:rustc-link-search=/home/peter/src/rustembedded/ozlockcon2019_USB/target/thumbv6m-none-eabi/release/build/cortex-m-rt-7052f086b99f763c/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in

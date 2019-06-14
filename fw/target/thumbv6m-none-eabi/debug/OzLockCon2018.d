@@ -1,0 +1,1 @@
+/home/peter/src/rustembedded/ozlockcon2019/target/thumbv6m-none-eabi/debug/OzLockCon2018: /home/peter/src/rustembedded/magspoof/src/lib.rs /home/peter/src/rustembedded/ozlockcon2019/build.rs /home/peter/src/rustembedded/ozlockcon2019/memory.x /home/peter/src/rustembedded/ozlockcon2019/src/main.rs /home/peter/src/rustembedded/ozlockcon2019/src/ozsecconusb.rs memory.x

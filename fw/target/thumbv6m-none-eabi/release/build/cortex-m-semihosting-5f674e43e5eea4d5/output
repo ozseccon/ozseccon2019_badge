@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=static=cortex-m-semihosting
+cargo:rustc-link-search=/home/peter/src/rustembedded/ozlockcon2019_USB/target/thumbv6m-none-eabi/release/build/cortex-m-semihosting-5f674e43e5eea4d5/out
+cargo:rustc-cfg=thumb

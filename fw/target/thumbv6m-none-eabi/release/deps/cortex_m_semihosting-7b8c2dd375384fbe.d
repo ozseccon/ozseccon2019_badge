@@ -1,0 +1,10 @@
+/home/peter/src/rustembedded/ozlockcon2019/target/thumbv6m-none-eabi/release/deps/libcortex_m_semihosting-7b8c2dd375384fbe.rlib: /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/lib.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/macros.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/debug.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/export.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/hio.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/nr.rs
+
+/home/peter/src/rustembedded/ozlockcon2019/target/thumbv6m-none-eabi/release/deps/cortex_m_semihosting-7b8c2dd375384fbe.d: /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/lib.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/macros.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/debug.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/export.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/hio.rs /home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/nr.rs
+
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/lib.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/macros.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/debug.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/export.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/hio.rs:
+/home/peter/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.2/src/nr.rs:

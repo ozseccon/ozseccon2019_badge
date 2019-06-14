@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/peter/src/rustembedded/ozlockcon2019/target/thumbv6m-none-eabi/release/build/OzLockCon2018-2900d2dd4e9db8c2/out
+cargo:rerun-if-changed=memory.x

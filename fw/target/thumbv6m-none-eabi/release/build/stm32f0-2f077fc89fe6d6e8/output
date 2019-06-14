@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/peter/src/rustembedded/ozlockcon2019_USB/target/thumbv6m-none-eabi/release/build/stm32f0-2f077fc89fe6d6e8/out
+cargo:rerun-if-changed=src/stm32f0x2/device.x
+cargo:rerun-if-changed=build.rs
