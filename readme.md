@@ -1,6 +1,6 @@
 # OzSecCon 2019 badge design.
 designed in kicad v4
-FW developed using [embedded rust] (https://rust-embedded.github.io).
+FW developed using (embedded rust)[https://rust-embedded.github.io].
 
 # Instructions for use
 ## Using the badge
