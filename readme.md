@@ -1,9 +1,9 @@
-#OzSecCon 2019 badge design.
+# OzSecCon 2019 badge design.
 designed in kicad v4
 FW developed using [embedded rust] (https://rust-embedded.github.io).
 
-#Instructions for use
-##Using the badge
+# Instructions for use
+## Using the badge
 Bottom Button plays track
 Top Button is to change track
 
@@ -11,7 +11,7 @@ Long press on Top to change card
 Long press on Bottom to exit magspoof mode
 (i was going to make a pattern thing appear but ran out of time)
 
-##Loading new cards
+## Loading new cards
 card program is present at 
     ./ozseccon2019_utility/cardutil.py
 
@@ -83,7 +83,7 @@ you should see ID ffff:ffff show up.
 ```
 1. You should now be able to use it.
 
-##reprogramming.
+## reprogramming.
 Convert file using the (elf2dfuse utility)[https://github.com/majbthrd/elf2dfuse]
 
 1. Short J3 to get device into bootloader mode
@@ -105,7 +105,9 @@ Convert file using the (elf2dfuse utility)[https://github.com/majbthrd/elf2dfuse
     Found DFU: [0483:df11] ver=2200, devnum=123, cfg=1, intf=0, alt=1, name="@Option Bytes  /0x1FFFF800/01*016 e", serial="FFFFFFFEFFFF"
     Found DFU: [0483:df11] ver=2200, devnum=123, cfg=1, intf=0, alt=0, name="@Internal Flash  /0x08000000/032*0001Kg", serial="FFFFFFFEFFFF"
     Found Runtime: [0a5c:21e6] ver=0112, devnum=4, cfg=1, intf=3, alt=0, name="UNKNOWN", serial="083E8EE37645"
+```
 1. use alt 0 - internal flash and program your DFU file
+```
     ~/src/elf2dfuse$ sudo dfu-util -d 0483:df11 -a 0 -D ./final.dfu 
     dfu-util 0.8
     
@@ -137,7 +139,8 @@ Convert file using the (elf2dfuse utility)[https://github.com/majbthrd/elf2dfuse
     Download done.
     done parsing DfuSe file
  ```
-#Stuff i stole/copied from to make this badge
+ 
+# Stuff i stole/copied from to make this badge
 [Samy Kamkar's Magspoof](http://samy.pl/magspoof/)
 [RyscCorp's version](https://github.com/RyscCorp/magspoof_r3)
 [Aleh Zasypkin Awesome Kroneum project](https://github.com/azasypkin/kroneum)
